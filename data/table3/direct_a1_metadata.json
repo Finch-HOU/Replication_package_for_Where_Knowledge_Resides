@@ -1,0 +1,98 @@
+{
+  "rank": 62,
+  "columns": 62,
+  "condition_normalized": 1775.3057199314815,
+  "min_normalized_eigenvalue": 0.00490978587410918,
+  "N": 774644805,
+  "cores": 597077,
+  "pairs": 70422255,
+  "paths": [
+    "biology",
+    "business",
+    "chemistry",
+    "computer science",
+    "economics",
+    "engineering",
+    "health",
+    "math",
+    "physics",
+    "psychology"
+  ],
+  "terms": [
+    "Gap_Destination",
+    "Distance_Destination",
+    "Distributed_Destination",
+    "Shared_Destination",
+    "Applicability_Destination",
+    "LogBreadth_Destination",
+    "LogProductivity_Destination",
+    "Gap_Home",
+    "Distance_Home",
+    "Distributed_Home",
+    "Shared_Home",
+    "Applicability_Home"
+  ],
+  "slopes": [
+    "Gap",
+    "Distance",
+    "Distributed",
+    "Shared",
+    "Applicability"
+  ],
+  "events": [
+    4477,
+    3784,
+    693,
+    4477
+  ],
+  "status": "estimated",
+  "CR1": 1.1094082925418314,
+  "df_inference": 9,
+  "df_FE": 76394375,
+  "R2": [
+    0.09890681101436727,
+    0.0988863868269837,
+    0.09870388852115408,
+    0.0988094643492553
+  ],
+  "within_R2": [
+    4.314016932571718e-08,
+    6.28717713446747e-08,
+    4.7688483384433766e-08,
+    7.790014511233068e-08
+  ],
+  "max_normal_equation_error": 3.650413304967515e-12,
+  "mapping": "direct",
+  "outcomes": [
+    "combined_no_specialist",
+    "neither",
+    "at_least_one",
+    "difference"
+  ],
+  "first_entry_events": {
+    "neither": 3784,
+    "at_least_one": 693
+  },
+  "full_risk_candidate_months": 774644805,
+  "timing": {
+    "2025": {
+      "months": 6,
+      "at_least_one": 6167238,
+      "neither": 416366292
+    },
+    "2026": {
+      "months": 5,
+      "at_least_one": 6928820,
+      "neither": 345182455
+    }
+  },
+  "frozen_2021_at_least_one_pairs": 0,
+  "validation": {
+    "max_path_XY_additivity_error": 3.1370461783808423e-12,
+    "max_path_ZY_additivity_error": 2.3163693185779266e-12,
+    "original_partition_reproduced": true,
+    "a1_combined_coefficients_and_scores_reproduced": true,
+    "event_status_reconciled": 7188
+  },
+  "covariance_reference": "Capability-path CR1, t(9)"
+}

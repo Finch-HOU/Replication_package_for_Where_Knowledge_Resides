@@ -1,0 +1,32 @@
+{
+  "Gap": {
+    "mean": 0.9139357390233576,
+    "sd": 0.10191077714935415,
+    "unit": "one risk-set standard deviation",
+    "zero_support": false
+  },
+  "Distance": {
+    "mean": 0.8568661909333817,
+    "sd": 0.13373529497084785,
+    "unit": "one risk-set standard deviation",
+    "zero_support": false
+  },
+  "Applicability": {
+    "mean": 0.3374109213003621,
+    "sd": 0.3775072021469136,
+    "unit": "one risk-set standard deviation",
+    "zero_support": false
+  },
+  "LogBreadth": {
+    "mean": 2.79333246218622,
+    "sd": 0.7715741232556768,
+    "unit": "one risk-set standard deviation",
+    "zero_support": false
+  },
+  "LogProductivity": {
+    "mean": 1.2537802797383903,
+    "sd": 0.2869999080337651,
+    "unit": "one risk-set standard deviation",
+    "zero_support": false
+  }
+}

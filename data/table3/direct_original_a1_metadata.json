@@ -1,0 +1,68 @@
+{
+  "rank": 62,
+  "columns": 62,
+  "condition_normalized": 1775.3057199314815,
+  "min_normalized_eigenvalue": 0.00490978587410918,
+  "N": 774644805,
+  "cores": 597077,
+  "pairs": 70422255,
+  "paths": [
+    "biology",
+    "business",
+    "chemistry",
+    "computer science",
+    "economics",
+    "engineering",
+    "health",
+    "math",
+    "physics",
+    "psychology"
+  ],
+  "terms": [
+    "Gap_Destination",
+    "Distance_Destination",
+    "Distributed_Destination",
+    "Shared_Destination",
+    "Applicability_Destination",
+    "LogBreadth_Destination",
+    "LogProductivity_Destination",
+    "Gap_Home",
+    "Distance_Home",
+    "Distributed_Home",
+    "Shared_Home",
+    "Applicability_Home"
+  ],
+  "slopes": [
+    "Gap",
+    "Distance",
+    "Distributed",
+    "Shared",
+    "Applicability"
+  ],
+  "events": [
+    7188,
+    2711,
+    4477,
+    7188
+  ],
+  "status": "estimated",
+  "CR1": 1.1094082925418314,
+  "df_inference": 9,
+  "df_FE": 76394375,
+  "R2": [
+    0.09901670970980558,
+    0.09896424513873192,
+    0.09890681101436727,
+    0.09884023644170081
+  ],
+  "within_R2": [
+    7.102755328336485e-08,
+    8.834382647648908e-08,
+    4.314016921469488e-08,
+    4.93513924171296e-08
+  ],
+  "max_normal_equation_error": 3.945288540307956e-12,
+  "family": "unified",
+  "mapping": "direct",
+  "specification": "a1_unified"
+}
