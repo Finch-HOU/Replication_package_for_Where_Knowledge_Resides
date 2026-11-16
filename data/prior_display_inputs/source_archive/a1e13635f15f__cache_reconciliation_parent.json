@@ -1,0 +1,23 @@
+[
+  {
+    "model": "benchmark",
+    "max_beta_error": 9.963648558552335e-18,
+    "max_joint_capability_covariance_error": 8.551302699693702e-24,
+    "N": 1056582406,
+    "passed": true
+  },
+  {
+    "model": "natural",
+    "max_beta_error": 4.5201066197278483e-17,
+    "max_joint_capability_covariance_error": 5.182700127950995e-21,
+    "N": 1056582406,
+    "passed": true
+  },
+  {
+    "model": "joint_sources",
+    "max_beta_error": 8.102039547076834e-17,
+    "max_joint_capability_covariance_error": 1.7216110089066165e-20,
+    "N": 1056582406,
+    "passed": true
+  }
+]

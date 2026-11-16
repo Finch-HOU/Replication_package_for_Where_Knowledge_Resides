@@ -1,0 +1,62 @@
+{
+  "Best": {
+    "mean": 0.08057919755075663,
+    "sd": 0.09654807536166488,
+    "population": "original full frozen risk pairs, before observability restriction"
+  },
+  "Self": {
+    "mean": 0.9397763619472044,
+    "sd": 0.10037800335045194,
+    "population": "original full frozen risk pairs, before observability restriction"
+  },
+  "Dominance": {
+    "mean": 0.5151786716111504,
+    "sd": 0.3320388500202004,
+    "population": "original full frozen risk pairs, before observability restriction"
+  },
+  "HHI": {
+    "mean": 0.37565886160576667,
+    "sd": 0.34442746310896166,
+    "population": "original full frozen risk pairs, before observability restriction"
+  },
+  "NoCoverage": {
+    "mean": 0.0001095534359131215,
+    "sd": 0.0104662043720635,
+    "population": "original full frozen risk pairs, before observability restriction"
+  },
+  "RarityGap": {
+    "mean": 0.9703328862111594,
+    "sd": 0.03929061954449456,
+    "population": "original full frozen risk pairs, before observability restriction"
+  },
+  "RarityBest": {
+    "mean": 0.027187407325481968,
+    "sd": 0.03640119950777621,
+    "population": "original full frozen risk pairs, before observability restriction"
+  },
+  "Clear0": {
+    "mean": 0.96312631567961,
+    "sd": 0.18845162701613946,
+    "population": "original full frozen risk pairs, before observability restriction"
+  },
+  "Clear10": {
+    "mean": 0.8449430510284001,
+    "sd": 0.3619589638995263,
+    "population": "original full frozen risk pairs, before observability restriction"
+  },
+  "Clear20": {
+    "mean": 0.7534099838183256,
+    "sd": 0.43102596221248196,
+    "population": "original full frozen risk pairs, before observability restriction"
+  },
+  "Clear30": {
+    "mean": 0.6714369058474484,
+    "sd": 0.4696907358182117,
+    "population": "original full frozen risk pairs, before observability restriction"
+  },
+  "Clear40": {
+    "mean": 0.5943901398783665,
+    "sd": 0.4910096755602097,
+    "population": "original full frozen risk pairs, before observability restriction"
+  }
+}

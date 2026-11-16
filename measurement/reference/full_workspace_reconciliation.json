@@ -1,0 +1,57 @@
+{
+  "archive_rows": 1008,
+  "replayed_rows": 1890,
+  "archive_reconciliation": {
+    "frontier_l0": {
+      "observed_cells": 686,
+      "maximum_absolute_difference": 0.0
+    },
+    "frontier_l6": {
+      "observed_cells": 686,
+      "maximum_absolute_difference": 0.0
+    },
+    "gain12_l6": {
+      "observed_cells": 224,
+      "maximum_absolute_difference": 8.326672684688674e-17
+    }
+  },
+  "mapping_counts": {
+    "direct": 131,
+    "parent": 186
+  },
+  "regression_path_months": 110,
+  "input_sha256": {
+    "crosswalk_audit.csv": "c87c5d30a6412a2a3979724223a111f8198588081ff1af6168205b0d24b528c9",
+    "field_month_proxies.csv": "4fa6519358edc65e9b76dba212ae94f0179f9e866dfecf1e84bd4912d37e34d8",
+    "field_monthly_scores.csv": "d320774f33c3b7a83bac24df05bc8cbb000640f0c8355e4dca0de176e37c3728",
+    "subfield_mapping_versions.csv": "aaba2e22090de2ca08628a13e7e3fe1e587b01243d43d76050ba5129122a9945"
+  },
+  "regression_exposure_reconciliation": {
+    "parent": {
+      "cores": 602919,
+      "mapped_destinations": 186,
+      "months": 11,
+      "home_core_months": 6632109,
+      "destination_subfield_months": 2046,
+      "candidate_pairs": 102614232,
+      "max_pooled_count_difference": 0.0,
+      "max_home_gain_absolute_difference": 1.3322676295501878e-15,
+      "max_destination_gain_absolute_difference": 8.326672684688674e-17,
+      "max_weight_sum_error": 3.3306690738754696e-16,
+      "minimum_mapped_records": 1
+    },
+    "direct": {
+      "cores": 597077,
+      "mapped_destinations": 131,
+      "months": 11,
+      "home_core_months": 6567847,
+      "destination_subfield_months": 1441,
+      "candidate_pairs": 70422255,
+      "max_pooled_count_difference": 0.0,
+      "max_home_gain_absolute_difference": 1.3322676295501878e-15,
+      "max_destination_gain_absolute_difference": 8.326672684688674e-17,
+      "max_weight_sum_error": 2.220446049250313e-16,
+      "minimum_mapped_records": 1
+    }
+  }
+}

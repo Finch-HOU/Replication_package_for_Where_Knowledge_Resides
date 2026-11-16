@@ -1,0 +1,37 @@
+item,file_path,role,status
+Raw data,D:/OpenAlex/parquet/works,OpenAlex work snapshot,Local only; redistribution status undetermined
+Raw data,D:/OpenAlex/parquet/manifest.json,Local snapshot inventory,Local only
+Intermediate data,expanded_sample_reassessment_20261102/01_sample_construction/global_catalog,Compact catalog shards used by history and roster construction,Local only
+Intermediate data,expanded_sample_reassessment_20261102/01_sample_construction/author_field.parquet,Author-field first-year history and pre-freeze counts,Local only; author-level
+Intermediate data,expanded_sample_reassessment_20261102/01_sample_construction/author_any.parquet,Author first observed publication,Local only; author-level
+Intermediate data,expanded_sample_reassessment_20261102/02_dyad_full_population/universal/members.parquet,Frozen members by core key,Local only; author-level
+Intermediate data,expanded_sample_reassessment_20261102/02_dyad_full_population/universal/analysis_works.parquet,"Joint works, first-month, author-history and expert flags",Local only; work-level
+Intermediate data,expanded_sample_reassessment_20261102/02_dyad_full_population/universal/member_first.parquet,Frozen coverage; restricted to destinations known by end-2021,Local only
+Intermediate data,expanded_sample_reassessment_20261102/02_dyad_full_population/universal/work_first.parquet,Earliest observed joint month by core-destination pair,Local only
+Analysis data,expanded_sample_reassessment_20261102/02_dyad_full_population/recent/global_core_index.parquet,Eligible recent persistent dyads before candidate restrictions,Local only
+Analysis data,expanded_sample_reassessment_20261102/02_dyad_full_population/universal/frozen,"Class C eligibility, histories, gap, distance and destination index",Local only; exact file hashes for main inputs
+Analysis data,expanded_sample_reassessment_20261102/08_reproducibility/inputs,"Mappings, capability and reference inputs",Local; exact file hashes for main inputs
+Analysis data,portfolio_A_theory_driven_exploration_20261103/measurement,"Historical requirement, distributed and shared input matrices",Local only; exact file hashes for main inputs
+Analysis data,temporal_productivity_validation_20261104/baseline_propensities_crossfit,Five-fold calibrated historical probabilities,Local only; audit uses aggregate primitives
+Analysis data,temporal_productivity_validation_20261104/relative_rate,Offset PPML inputs and optimizer diagnostics,Local only; audit uses archived estimates
+Estimation results,analysis_extensions/theory_evidence_alignment/cache,Projected A1 and donor model cross-products,Local; A1 sufficient moments copied
+Estimation results,analysis_extensions/theory_evidence_alignment/fits,"Original, unified and donor model outputs",Local; main-table cells and original A1 fit copied
+Estimation results,analysis_extensions/theory_evidence_alignment/diagnostics,"Donor means, contrasts, matching quality and covariance checks",Numeric snapshots archived
+Estimation results,portfolio_A_theory_driven_exploration_20261103/verification/recent_dyad,Original validation regressions and covariance,Numeric snapshots archived
+Estimation results,temporal_productivity_validation_20261104/results,"Calibrated productivity restrictions, original and historical fits",Restriction primitives and published cells archived
+Estimation results,temporal_productivity_validation_20261104/data,"PPML, historical contrasts, failures and covariance diagnostics",Published cells archived
+Estimation results,anchor_amplification_exploration_20261106/00_baseline_frozen/replication,"Sample totals, original architecture coefficients and covariance",Main-cell snapshots archived
+Data preparation,expanded_sample_reassessment_20261102/01_sample_construction/compact_catalog.py,Compact OpenAlex catalog source code,Source archived
+Variable construction,expanded_sample_reassessment_20261102/01_sample_construction/build_global_histories.py,Publication and author histories,Source archived
+Sample construction,expanded_sample_reassessment_20261102/01_sample_construction/build_populations.py,Frozen persistent core eligibility,Source archived
+Sample construction,expanded_sample_reassessment_20261102/01_sample_construction/build_core_data.py,Core works and strictly prior-year expertise,Source archived
+Variable construction,expanded_sample_reassessment_20261102/01_sample_construction/build_frozen_matrices.py,Frozen histories and candidate distances,Source archived
+Variable construction,portfolio_A_theory_driven_exploration_20261103/code/constructs.py,Knowledge modifiers and directional applicability,Source archived
+Sample construction,expanded_sample_reassessment_20261102/08_reproducibility/panel_api.py,Mapping-specific Class C risks,Source archived
+Estimation code,analysis_extensions/theory_evidence_alignment/engine.py,Exact fixed-effect projections and aligned path moments,Source archived
+Estimation code,temporal_productivity_validation_20261104/code,"Cross-fit, proportional restrictions, PPML and historical replay",Source archived; original external dependencies local
+Estimation code,portfolio_A_theory_driven_exploration_20261103/code/verify_architecture_lead.py,Original Table 7 and prior-year outcome partitions,Source archived
+Table code,Where_Knowledge_Resides_Final\02_Replication\data\prior_display_inputs\code\editorial_exhibits.py,Original display and exact p-value source resolution,Packaged
+Table code,Where_Knowledge_Resides_Final\02_Replication\code\replay_table3.py,"New Table 3, numerical values and formal tests",Packaged
+Analysis data,Where_Knowledge_Resides_Final\02_Replication\data\table3,"New aggregate path statistics, metadata and output",Packaged
+Logs,Where_Knowledge_Resides_Final\02_Replication\logs,"Table 3 full-risk and replay logs, prior table audit, LaTeX, inherited examples",Packaged

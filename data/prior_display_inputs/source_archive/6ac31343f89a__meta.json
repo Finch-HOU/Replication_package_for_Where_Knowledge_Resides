@@ -1,0 +1,96 @@
+{
+  "rank": 15,
+  "columns": 15,
+  "interest_columns": 15,
+  "condition": 8308.136792303876,
+  "condition_basis": "diagonally normalized augmented Gram",
+  "raw_Gram_condition": 12690.400356648957,
+  "minimum_normalized_eigenvalue": 0.000697418759806828,
+  "N": 1056582406,
+  "pairs": 96052946,
+  "teams": 566410,
+  "extra_month_controls": [],
+  "df_FE": 101718936,
+  "clusters": 10,
+  "df_inference": 9,
+  "status": "estimated",
+  "names": [
+    "Gap_Destination",
+    "Gap_Home",
+    "Distance_Destination",
+    "Distance_Home",
+    "Distributed_Destination",
+    "Distributed_Home",
+    "Shared_Destination",
+    "Shared_Home",
+    "LogBreadth_Destination",
+    "LogProductivity_Destination",
+    "A",
+    "A_Gap",
+    "A_Best",
+    "O_Gap",
+    "O_Best"
+  ],
+  "events": [
+    8856,
+    3337,
+    5519,
+    8856
+  ],
+  "mean_outcome": [
+    8.381740931620245e-06,
+    3.1582960127390196e-06,
+    5.2234449188812255e-06,
+    -2.065148906142206e-06
+  ],
+  "R2": [
+    0.0965634303881161,
+    0.09647271784348599,
+    0.09650794379928274,
+    0.09642591096638509
+  ],
+  "within_R2": [
+    6.086951220840575e-08,
+    6.94049766547522e-08,
+    3.679243820720046e-08,
+    3.729512498829024e-08
+  ],
+  "partial_correlations": {
+    "A_Best_vs_O_Best": -0.5315530408903063,
+    "A_Best_vs_Home_Best_equivalent": 0.9055645676724
+  },
+  "CR1_factor": 1.106527220690418,
+  "within_R2_after_original_FE": [
+    6.086951220840575e-08,
+    6.94049766547522e-08,
+    3.679243820720046e-08,
+    3.729512498829024e-08
+  ],
+  "specification": {
+    "id": "joint_sources",
+    "columns": [
+      "Gap_Destination",
+      "Gap_Home",
+      "Distance_Destination",
+      "Distance_Home",
+      "Distributed_Destination",
+      "Distributed_Home",
+      "Shared_Destination",
+      "Shared_Home",
+      "LogBreadth_Destination",
+      "LogProductivity_Destination",
+      "A",
+      "A_Gap",
+      "A_Best",
+      "O_Gap",
+      "O_Best"
+    ],
+    "focus": "A_Best",
+    "extra_month_controls": [],
+    "category": "formal source comparison",
+    "anchor": "coverage_max",
+    "gain": "own_counts",
+    "measure": "Best",
+    "threshold": null
+  }
+}

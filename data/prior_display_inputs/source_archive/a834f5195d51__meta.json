@@ -1,0 +1,91 @@
+{
+  "rank": 13,
+  "columns": 13,
+  "interest_columns": 13,
+  "condition": 3213.272549285344,
+  "condition_basis": "diagonally normalized augmented Gram",
+  "raw_Gram_condition": 7212.805377949077,
+  "minimum_normalized_eigenvalue": 0.0014016039865243379,
+  "N": 699917174,
+  "pairs": 63628834,
+  "teams": 542908,
+  "extra_month_controls": [],
+  "df_FE": 69059254,
+  "clusters": 10,
+  "df_inference": 9,
+  "status": "estimated",
+  "names": [
+    "Gap_Destination",
+    "Gap_Home",
+    "Distance_Destination",
+    "Distance_Home",
+    "Distributed_Destination",
+    "Distributed_Home",
+    "Shared_Destination",
+    "Shared_Home",
+    "LogBreadth_Destination",
+    "LogProductivity_Destination",
+    "A",
+    "A_Gap",
+    "A_Best"
+  ],
+  "events": [
+    6924,
+    2639,
+    4285,
+    6924
+  ],
+  "mean_outcome": [
+    9.892599092017709e-06,
+    3.7704461299588e-06,
+    6.122152962058908e-06,
+    -2.351706832100108e-06
+  ],
+  "R2": [
+    0.09902168504134368,
+    0.09898645908986403,
+    0.09891230225041558,
+    0.09885944828828419
+  ],
+  "within_R2": [
+    8.05283848492877e-08,
+    1.126830525555178e-07,
+    5.1846321680315555e-08,
+    6.953739495330069e-08
+  ],
+  "partial_correlations": {
+    "A_Best_vs_Home_Best_equivalent": 0.927276418204996
+  },
+  "CR1_factor": 1.1094688126022014,
+  "within_R2_after_original_FE": [
+    8.05283848492877e-08,
+    1.126830525555178e-07,
+    5.1846321680315555e-08,
+    6.953739495330069e-08
+  ],
+  "specification": {
+    "id": "natural",
+    "columns": [
+      "Gap_Destination",
+      "Gap_Home",
+      "Distance_Destination",
+      "Distance_Home",
+      "Distributed_Destination",
+      "Distributed_Home",
+      "Shared_Destination",
+      "Shared_Home",
+      "LogBreadth_Destination",
+      "LogProductivity_Destination",
+      "A",
+      "A_Gap",
+      "A_Best"
+    ],
+    "focus": "A_Best",
+    "extra_month_controls": [],
+    "category": "natural/default",
+    "anchor": "coverage_max",
+    "gain": "own_counts",
+    "measure": "Best",
+    "threshold": null
+  }
+}

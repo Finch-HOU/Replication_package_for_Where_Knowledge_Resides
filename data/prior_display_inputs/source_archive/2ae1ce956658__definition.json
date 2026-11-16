@@ -1,0 +1,17 @@
+{
+  "classes": "C",
+  "unit": "candidate-month Jul2025-May2026",
+  "zero_inclusive": true,
+  "FE": "pair, core-month, destination-month, modifier-month slopes",
+  "primary_cluster": "MMLU capability path",
+  "specialist": "any additional prior-year demonstrated destination expert in any first-month paper",
+  "mutually_exclusive_priority": true,
+  "total_equals_sum": true,
+  "signed_equals_difference": true,
+  "all_controls_predetermined": true,
+  "first_events": 9065,
+  "first_month_multi_paper_events": 293,
+  "scaling": "continuous components risk-set standardized, products of standardized primitives; C indicator unstandardized",
+  "stage": "architecture",
+  "historical_future_marker_not_AI_effect": false
+}

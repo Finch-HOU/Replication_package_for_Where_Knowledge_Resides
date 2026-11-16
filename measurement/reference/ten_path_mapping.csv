@@ -1,0 +1,21 @@
+capability_path,mmlu_pro_domains,mapping_type,openalex_parent_fields,mapped_subfields,construction_rule
+biology,biology,direct,"Biochemistry, Genetics and Molecular Biology | Immunology and Microbiology",19,One supplied frontier for the identically named benchmark domain; no subject average
+business,business,direct,"Business, Management and Accounting",9,One supplied frontier for the identically named benchmark domain; no subject average
+chemistry,chemistry,direct,Chemistry,6,One supplied frontier for the identically named benchmark domain; no subject average
+computer science,computer science,direct,Computer Science,11,One supplied frontier for the identically named benchmark domain; no subject average
+economics,economics,direct,"Economics, Econometrics and Finance",3,One supplied frontier for the identically named benchmark domain; no subject average
+engineering,engineering,direct,Engineering,16,One supplied frontier for the identically named benchmark domain; no subject average
+health,health,direct,Medicine,42,One supplied frontier for the identically named benchmark domain; no subject average
+math,math,direct,Mathematics,10,One supplied frontier for the identically named benchmark domain; no subject average
+physics,physics,direct,Physics and Astronomy,8,One supplied frontier for the identically named benchmark domain; no subject average
+psychology,psychology,direct,Psychology,7,One supplied frontier for the identically named benchmark domain; no subject average
+biology,biology,parent,"Agricultural and Biological Sciences | Biochemistry, Genetics and Molecular Biology | Immunology and Microbiology",30,One supplied frontier for the identically named benchmark domain; no subject average
+business,business,parent,"Business, Management and Accounting",9,One supplied frontier for the identically named benchmark domain; no subject average
+chemistry,chemistry,parent,Chemistry,6,One supplied frontier for the identically named benchmark domain; no subject average
+computer science,computer science,parent,Computer Science,11,One supplied frontier for the identically named benchmark domain; no subject average
+economics,economics,parent,"Economics, Econometrics and Finance",3,One supplied frontier for the identically named benchmark domain; no subject average
+engineering,engineering,parent,Chemical Engineering | Energy | Engineering | Materials Science,35,One supplied frontier for the identically named benchmark domain; no subject average
+health,health,parent,"Dentistry | Health Professions | Medicine | Nursing | Pharmacology, Toxicology and Pharmaceutics | Veterinary",67,One supplied frontier for the identically named benchmark domain; no subject average
+math,math,parent,Mathematics,10,One supplied frontier for the identically named benchmark domain; no subject average
+physics,physics,parent,Physics and Astronomy,8,One supplied frontier for the identically named benchmark domain; no subject average
+psychology,psychology,parent,Psychology,7,One supplied frontier for the identically named benchmark domain; no subject average

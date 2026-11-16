@@ -1,0 +1,512 @@
+﻿candidate_subfield_id,candidate_subfield_name,candidate_field_name,candidate_domain_name,field,mapping_confidence,disagrees_parent,mapping
+https://openalex.org/subfields/1402,Accounting,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,original
+https://openalex.org/subfields/3102,Acoustics and Ultrasonics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,original
+https://openalex.org/subfields/2202,Aerospace Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/1302,Aging,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/1102,Agronomy and Crop Science,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,original
+https://openalex.org/subfields/2602,Algebra and Number Theory,Mathematics,Physical Sciences,math,direct_agreement,False,original
+https://openalex.org/subfields/1602,Analytical Chemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,original
+https://openalex.org/subfields/2702,Anatomy,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2703,Anesthesiology and Pain Medicine,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/1103,Animal Science and Zoology,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,original
+https://openalex.org/subfields/2604,Applied Mathematics,Mathematics,Physical Sciences,math,direct_agreement,False,original
+https://openalex.org/subfields/2402,Applied Microbiology and Biotechnology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/3202,Applied Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,original
+https://openalex.org/subfields/1104,Aquatic Science,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,original
+https://openalex.org/subfields/2216,Architecture,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/1702,Artificial Intelligence,Computer Science,Physical Sciences,computer science,direct_agreement,False,original
+https://openalex.org/subfields/3103,Astronomy and Astrophysics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,original
+https://openalex.org/subfields/3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,original
+https://openalex.org/subfields/2203,Automotive Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/1303,Biochemistry,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/2704,Biochemistry,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/1502,Bioengineering,Chemical Engineering,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/2502,Biomaterials,Materials Science,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/2204,Biomedical Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/1304,Biophysics,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/1305,Biotechnology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/2215,Building and Construction,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/1403,Business and International Management,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,original
+https://openalex.org/subfields/1306,Cancer Research,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/2705,Cardiology and Cardiovascular Medicine,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/1503,Catalysis,Chemical Engineering,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/1307,Cell Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/2503,Ceramics and Composites,Materials Science,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/1504,Chemical Health and Safety,Chemical Engineering,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/2205,Civil and Structural Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/1308,Clinical Biochemistry,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/3203,Clinical Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,original
+https://openalex.org/subfields/3603,Complementary and Manual Therapy,Health Professions,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/2707,Complementary and alternative medicine,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2605,Computational Mathematics,Mathematics,Physical Sciences,math,direct_agreement,False,original
+https://openalex.org/subfields/2206,Computational Mechanics,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/1703,Computational Theory and Mathematics,Computer Science,Physical Sciences,computer science,direct_agreement,False,original
+https://openalex.org/subfields/1704,Computer Graphics and Computer-Aided Design,Computer Science,Physical Sciences,computer science,direct_agreement,False,original
+https://openalex.org/subfields/1705,Computer Networks and Communications,Computer Science,Physical Sciences,computer science,direct_agreement,False,original
+https://openalex.org/subfields/1706,Computer Science Applications,Computer Science,Physical Sciences,computer science,direct_agreement,False,original
+https://openalex.org/subfields/1707,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences,computer science,direct_agreement,False,original
+https://openalex.org/subfields/3104,Condensed Matter Physics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,original
+https://openalex.org/subfields/2207,Control and Systems Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/2706,Critical Care and Intensive Care Medicine,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2708,Dermatology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/1309,Developmental Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/3204,Developmental and Educational Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,original
+https://openalex.org/subfields/2607,Discrete Mathematics and Combinatorics,Mathematics,Physical Sciences,math,direct_agreement,False,original
+https://openalex.org/subfields/3002,Drug Discovery,"Pharmacology, Toxicology and Pharmaceutics",Life Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/1105,"Ecology, Evolution, Behavior and Systematics",Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,original
+https://openalex.org/subfields/2002,Economics and Econometrics,"Economics, Econometrics and Finance",Social Sciences,economics,direct_agreement,False,original
+https://openalex.org/subfields/2208,Electrical and Electronic Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/1603,Electrochemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,original
+https://openalex.org/subfields/2504,"Electronic, Optical and Magnetic Materials",Materials Science,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/3604,Emergency Medical Services,Health Professions,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/2711,Emergency Medicine,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/1310,Endocrinology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/2712,"Endocrinology, Diabetes and Metabolism",Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2102,Energy Engineering and Power Technology,Energy,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/2713,Epidemiology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/3402,Equine,Veterinary,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/3205,Experimental and Cognitive Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,original
+https://openalex.org/subfields/2714,Family Practice,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/1506,Filtration and Separation,Chemical Engineering,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/2003,Finance,"Economics, Econometrics and Finance",Social Sciences,business,conflict_with_parent,True,original
+https://openalex.org/subfields/1507,Fluid Flow and Transfer Processes,Chemical Engineering,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/1106,Food Science,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,original
+https://openalex.org/subfields/1107,Forestry,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,original
+https://openalex.org/subfields/2103,Fuel Technology,Energy,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/2715,Gastroenterology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/1100,General Agricultural and Biological Sciences,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,original
+https://openalex.org/subfields/3500,General Dentistry,Dentistry,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/2000,"General Economics, Econometrics and Finance","Economics, Econometrics and Finance",Social Sciences,economics,direct_agreement,False,original
+https://openalex.org/subfields/2100,General Energy,Energy,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/2200,General Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/3600,General Health Professions,Health Professions,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/2500,General Materials Science,Materials Science,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/3200,General Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,original
+https://openalex.org/subfields/1311,Genetics,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/2716,Genetics,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2608,Geometry and Topology,Mathematics,Physical Sciences,math,direct_agreement,False,original
+https://openalex.org/subfields/2717,Geriatrics and Gerontology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/1708,Hardware and Architecture,Computer Science,Physical Sciences,computer science,direct_agreement,False,original
+https://openalex.org/subfields/2718,Health Informatics,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/3605,Health Information Management,Health Professions,Health Sciences,business,conflict_with_parent,True,original
+https://openalex.org/subfields/2720,Hematology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2721,Hepatology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/1202,History,Arts and Humanities,Social Sciences,history,parent_or_keyword,False,original
+https://openalex.org/subfields/1108,Horticulture,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,original
+https://openalex.org/subfields/1709,Human-Computer Interaction,Computer Science,Physical Sciences,computer science,direct_agreement,False,original
+https://openalex.org/subfields/2403,Immunology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/2723,Immunology and Allergy,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2209,Industrial and Manufacturing Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/1410,Industrial relations,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,original
+https://openalex.org/subfields/2725,Infectious Diseases,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/1710,Information Systems,Computer Science,Physical Sciences,computer science,direct_agreement,False,original
+https://openalex.org/subfields/1802,Information Systems and Management,Decision Sciences,Social Sciences,business,parent_or_keyword,False,original
+https://openalex.org/subfields/1604,Inorganic Chemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,original
+https://openalex.org/subfields/1109,Insect Science,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,original
+https://openalex.org/subfields/3105,Instrumentation,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,original
+https://openalex.org/subfields/2724,Internal Medicine,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2910,"Issues, ethics and legal aspects",Nursing,Health Sciences,law,conflict_with_parent,True,original
+https://openalex.org/subfields/3308,Law,Social Sciences,Social Sciences,law,parent_or_keyword,False,original
+https://openalex.org/subfields/2911,Leadership and Management,Nursing,Health Sciences,business,conflict_with_parent,True,original
+https://openalex.org/subfields/1404,Management Information Systems,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,original
+https://openalex.org/subfields/1803,Management Science and Operations Research,Decision Sciences,Social Sciences,business,parent_or_keyword,False,original
+https://openalex.org/subfields/1405,Management of Technology and Innovation,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,original
+https://openalex.org/subfields/2308,"Management, Monitoring, Policy and Law",Environmental Science,Physical Sciences,law,parent_or_keyword,False,original
+https://openalex.org/subfields/1406,Marketing,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,original
+https://openalex.org/subfields/2505,Materials Chemistry,Materials Science,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/2610,Mathematical Physics,Mathematics,Physical Sciences,math,direct_agreement,False,original
+https://openalex.org/subfields/2210,Mechanical Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/2211,Mechanics of Materials,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/2214,Media Technology,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/3607,Medical Laboratory Technology,Health Professions,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/3608,Medical Terminology,Health Professions,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/2506,Metals and Alloys,Materials Science,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/2726,Microbiology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2404,Microbiology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/2611,Modeling and Simulation,Mathematics,Physical Sciences,math,direct_agreement,False,original
+https://openalex.org/subfields/1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/1313,Molecular Medicine,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/2727,Nephrology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2728,Neurology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/3206,Neuropsychology and Physiological Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,original
+https://openalex.org/subfields/2104,Nuclear Energy and Engineering,Energy,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/3106,Nuclear and High Energy Physics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,original
+https://openalex.org/subfields/2612,Numerical Analysis,Mathematics,Physical Sciences,math,direct_agreement,False,original
+https://openalex.org/subfields/2916,Nutrition and Dietetics,Nursing,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/2729,Obstetrics and Gynecology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/3609,Occupational Therapy,Health Professions,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/2212,Ocean Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/2730,Oncology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2731,Ophthalmology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/3504,Oral Surgery,Dentistry,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/1605,Organic Chemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,original
+https://openalex.org/subfields/1407,Organizational Behavior and Human Resource Management,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,original
+https://openalex.org/subfields/3505,Orthodontics,Dentistry,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/2732,Orthopedics and Sports Medicine,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2733,Otorhinolaryngology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2405,Parasitology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/2734,Pathology and Forensic Medicine,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2735,"Pediatrics, Perinatology and Child Health",Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/3506,Periodontics,Dentistry,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/3003,Pharmaceutical Science,"Pharmacology, Toxicology and Pharmaceutics",Life Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/2736,Pharmacology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/3004,Pharmacology,"Pharmacology, Toxicology and Pharmaceutics",Life Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/3611,Pharmacy,Health Professions,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/1211,Philosophy,Arts and Humanities,Social Sciences,philosophy,parent_or_keyword,False,original
+https://openalex.org/subfields/3612,"Physical Therapy, Sports Therapy and Rehabilitation",Health Professions,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/1606,Physical and Theoretical Chemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,original
+https://openalex.org/subfields/1314,Physiology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/2737,Physiology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/1110,Plant Science,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,original
+https://openalex.org/subfields/2507,Polymers and Plastics,Materials Science,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/1508,Process Chemistry and Technology,Chemical Engineering,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/2738,Psychiatry and Mental health,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2739,"Public Health, Environmental and Occupational Health",Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2740,Pulmonary and Respiratory Medicine,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/3108,Radiation,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,original
+https://openalex.org/subfields/3614,Radiological and Ultrasound Technology,Health Professions,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/2741,"Radiology, Nuclear Medicine and Imaging",Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2742,Rehabilitation,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2105,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/2743,Reproductive Medicine,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2922,Research and Theory,Nursing,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/2745,Rheumatology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2213,"Safety, Risk, Reliability and Quality",Engineering,Physical Sciences,engineering,direct_agreement,False,original
+https://openalex.org/subfields/1711,Signal Processing,Computer Science,Physical Sciences,computer science,direct_agreement,False,original
+https://openalex.org/subfields/3404,Small Animals,Veterinary,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/3207,Social Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,original
+https://openalex.org/subfields/1712,Software,Computer Science,Physical Sciences,computer science,direct_agreement,False,original
+https://openalex.org/subfields/1111,Soil Science,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,original
+https://openalex.org/subfields/1607,Spectroscopy,Chemistry,Physical Sciences,chemistry,direct_agreement,False,original
+https://openalex.org/subfields/3616,Speech and Hearing,Health Professions,Health Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/3109,Statistical and Nonlinear Physics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,original
+https://openalex.org/subfields/2613,Statistics and Probability,Mathematics,Physical Sciences,math,direct_agreement,False,original
+https://openalex.org/subfields/1804,"Statistics, Probability and Uncertainty",Decision Sciences,Social Sciences,math,parent_or_keyword,False,original
+https://openalex.org/subfields/1408,Strategy and Management,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,original
+https://openalex.org/subfields/1315,Structural Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/2508,"Surfaces, Coatings and Films",Materials Science,Physical Sciences,engineering,parent_or_keyword,False,original
+https://openalex.org/subfields/2746,Surgery,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2614,Theoretical Computer Science,Mathematics,Physical Sciences,math,direct_agreement,False,original
+https://openalex.org/subfields/1409,"Tourism, Leisure and Hospitality Management","Business, Management and Accounting",Social Sciences,business,direct_agreement,False,original
+https://openalex.org/subfields/3005,Toxicology,"Pharmacology, Toxicology and Pharmaceutics",Life Sciences,health,parent_or_keyword,False,original
+https://openalex.org/subfields/2747,Transplantation,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2748,Urology,Medicine,Health Sciences,health,direct_agreement,False,original
+https://openalex.org/subfields/2406,Virology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,original
+https://openalex.org/subfields/2311,Waste Management and Disposal,Environmental Science,Physical Sciences,business,parent_or_keyword,False,original
+https://openalex.org/subfields/1402,Accounting,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,parent
+https://openalex.org/subfields/3102,Acoustics and Ultrasonics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,parent
+https://openalex.org/subfields/2202,Aerospace Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/1302,Aging,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/1102,Agronomy and Crop Science,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,parent
+https://openalex.org/subfields/2602,Algebra and Number Theory,Mathematics,Physical Sciences,math,direct_agreement,False,parent
+https://openalex.org/subfields/1602,Analytical Chemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,parent
+https://openalex.org/subfields/2702,Anatomy,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2703,Anesthesiology and Pain Medicine,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/1103,Animal Science and Zoology,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,parent
+https://openalex.org/subfields/2604,Applied Mathematics,Mathematics,Physical Sciences,math,direct_agreement,False,parent
+https://openalex.org/subfields/2402,Applied Microbiology and Biotechnology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/3202,Applied Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,parent
+https://openalex.org/subfields/1104,Aquatic Science,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,parent
+https://openalex.org/subfields/2216,Architecture,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/1702,Artificial Intelligence,Computer Science,Physical Sciences,computer science,direct_agreement,False,parent
+https://openalex.org/subfields/3103,Astronomy and Astrophysics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,parent
+https://openalex.org/subfields/3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,parent
+https://openalex.org/subfields/2203,Automotive Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/1303,Biochemistry,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/2704,Biochemistry,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/1502,Bioengineering,Chemical Engineering,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/2502,Biomaterials,Materials Science,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/2204,Biomedical Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/1304,Biophysics,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/1305,Biotechnology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/2215,Building and Construction,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/1403,Business and International Management,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,parent
+https://openalex.org/subfields/1306,Cancer Research,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/2705,Cardiology and Cardiovascular Medicine,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/1503,Catalysis,Chemical Engineering,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/1307,Cell Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/2503,Ceramics and Composites,Materials Science,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/1504,Chemical Health and Safety,Chemical Engineering,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/2205,Civil and Structural Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/1308,Clinical Biochemistry,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/3203,Clinical Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,parent
+https://openalex.org/subfields/3603,Complementary and Manual Therapy,Health Professions,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/2707,Complementary and alternative medicine,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2605,Computational Mathematics,Mathematics,Physical Sciences,math,direct_agreement,False,parent
+https://openalex.org/subfields/2206,Computational Mechanics,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/1703,Computational Theory and Mathematics,Computer Science,Physical Sciences,computer science,direct_agreement,False,parent
+https://openalex.org/subfields/1704,Computer Graphics and Computer-Aided Design,Computer Science,Physical Sciences,computer science,direct_agreement,False,parent
+https://openalex.org/subfields/1705,Computer Networks and Communications,Computer Science,Physical Sciences,computer science,direct_agreement,False,parent
+https://openalex.org/subfields/1706,Computer Science Applications,Computer Science,Physical Sciences,computer science,direct_agreement,False,parent
+https://openalex.org/subfields/1707,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences,computer science,direct_agreement,False,parent
+https://openalex.org/subfields/3104,Condensed Matter Physics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,parent
+https://openalex.org/subfields/2207,Control and Systems Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/2706,Critical Care and Intensive Care Medicine,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2708,Dermatology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/1309,Developmental Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/3204,Developmental and Educational Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,parent
+https://openalex.org/subfields/2607,Discrete Mathematics and Combinatorics,Mathematics,Physical Sciences,math,direct_agreement,False,parent
+https://openalex.org/subfields/3002,Drug Discovery,"Pharmacology, Toxicology and Pharmaceutics",Life Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/1105,"Ecology, Evolution, Behavior and Systematics",Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,parent
+https://openalex.org/subfields/2002,Economics and Econometrics,"Economics, Econometrics and Finance",Social Sciences,economics,direct_agreement,False,parent
+https://openalex.org/subfields/2208,Electrical and Electronic Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/1603,Electrochemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,parent
+https://openalex.org/subfields/2504,"Electronic, Optical and Magnetic Materials",Materials Science,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/3604,Emergency Medical Services,Health Professions,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/2711,Emergency Medicine,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/1310,Endocrinology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/2712,"Endocrinology, Diabetes and Metabolism",Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2102,Energy Engineering and Power Technology,Energy,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/2713,Epidemiology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/3402,Equine,Veterinary,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/3205,Experimental and Cognitive Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,parent
+https://openalex.org/subfields/2714,Family Practice,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/1506,Filtration and Separation,Chemical Engineering,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/2003,Finance,"Economics, Econometrics and Finance",Social Sciences,economics,conflict_with_parent,True,parent
+https://openalex.org/subfields/1507,Fluid Flow and Transfer Processes,Chemical Engineering,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/1106,Food Science,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,parent
+https://openalex.org/subfields/1107,Forestry,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,parent
+https://openalex.org/subfields/2103,Fuel Technology,Energy,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/2715,Gastroenterology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/1100,General Agricultural and Biological Sciences,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,parent
+https://openalex.org/subfields/3500,General Dentistry,Dentistry,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/2000,"General Economics, Econometrics and Finance","Economics, Econometrics and Finance",Social Sciences,economics,direct_agreement,False,parent
+https://openalex.org/subfields/2100,General Energy,Energy,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/2200,General Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/3600,General Health Professions,Health Professions,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/2500,General Materials Science,Materials Science,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/3200,General Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,parent
+https://openalex.org/subfields/1311,Genetics,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/2716,Genetics,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2608,Geometry and Topology,Mathematics,Physical Sciences,math,direct_agreement,False,parent
+https://openalex.org/subfields/2717,Geriatrics and Gerontology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/1708,Hardware and Architecture,Computer Science,Physical Sciences,computer science,direct_agreement,False,parent
+https://openalex.org/subfields/2718,Health Informatics,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/3605,Health Information Management,Health Professions,Health Sciences,health,conflict_with_parent,True,parent
+https://openalex.org/subfields/2720,Hematology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2721,Hepatology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/1108,Horticulture,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,parent
+https://openalex.org/subfields/1709,Human-Computer Interaction,Computer Science,Physical Sciences,computer science,direct_agreement,False,parent
+https://openalex.org/subfields/2403,Immunology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/2723,Immunology and Allergy,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2209,Industrial and Manufacturing Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/1410,Industrial relations,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,parent
+https://openalex.org/subfields/2725,Infectious Diseases,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/1710,Information Systems,Computer Science,Physical Sciences,computer science,direct_agreement,False,parent
+https://openalex.org/subfields/1604,Inorganic Chemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,parent
+https://openalex.org/subfields/1109,Insect Science,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,parent
+https://openalex.org/subfields/3105,Instrumentation,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,parent
+https://openalex.org/subfields/2724,Internal Medicine,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2910,"Issues, ethics and legal aspects",Nursing,Health Sciences,health,conflict_with_parent,True,parent
+https://openalex.org/subfields/2911,Leadership and Management,Nursing,Health Sciences,health,conflict_with_parent,True,parent
+https://openalex.org/subfields/1404,Management Information Systems,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,parent
+https://openalex.org/subfields/1405,Management of Technology and Innovation,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,parent
+https://openalex.org/subfields/1406,Marketing,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,parent
+https://openalex.org/subfields/2505,Materials Chemistry,Materials Science,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/2610,Mathematical Physics,Mathematics,Physical Sciences,math,direct_agreement,False,parent
+https://openalex.org/subfields/2210,Mechanical Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/2211,Mechanics of Materials,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/2214,Media Technology,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/3607,Medical Laboratory Technology,Health Professions,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/3608,Medical Terminology,Health Professions,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/2506,Metals and Alloys,Materials Science,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/2726,Microbiology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2404,Microbiology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/2611,Modeling and Simulation,Mathematics,Physical Sciences,math,direct_agreement,False,parent
+https://openalex.org/subfields/1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/1313,Molecular Medicine,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/2727,Nephrology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2728,Neurology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/3206,Neuropsychology and Physiological Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,parent
+https://openalex.org/subfields/2104,Nuclear Energy and Engineering,Energy,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/3106,Nuclear and High Energy Physics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,parent
+https://openalex.org/subfields/2612,Numerical Analysis,Mathematics,Physical Sciences,math,direct_agreement,False,parent
+https://openalex.org/subfields/2916,Nutrition and Dietetics,Nursing,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/2729,Obstetrics and Gynecology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/3609,Occupational Therapy,Health Professions,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/2212,Ocean Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/2730,Oncology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2731,Ophthalmology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/3504,Oral Surgery,Dentistry,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/1605,Organic Chemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,parent
+https://openalex.org/subfields/1407,Organizational Behavior and Human Resource Management,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,parent
+https://openalex.org/subfields/3505,Orthodontics,Dentistry,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/2732,Orthopedics and Sports Medicine,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2733,Otorhinolaryngology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2405,Parasitology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/2734,Pathology and Forensic Medicine,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2735,"Pediatrics, Perinatology and Child Health",Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/3506,Periodontics,Dentistry,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/3003,Pharmaceutical Science,"Pharmacology, Toxicology and Pharmaceutics",Life Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/2736,Pharmacology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/3004,Pharmacology,"Pharmacology, Toxicology and Pharmaceutics",Life Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/3611,Pharmacy,Health Professions,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/3612,"Physical Therapy, Sports Therapy and Rehabilitation",Health Professions,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/1606,Physical and Theoretical Chemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,parent
+https://openalex.org/subfields/1314,Physiology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/2737,Physiology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/1110,Plant Science,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,parent
+https://openalex.org/subfields/2507,Polymers and Plastics,Materials Science,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/1508,Process Chemistry and Technology,Chemical Engineering,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/2738,Psychiatry and Mental health,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2739,"Public Health, Environmental and Occupational Health",Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2740,Pulmonary and Respiratory Medicine,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/3108,Radiation,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,parent
+https://openalex.org/subfields/3614,Radiological and Ultrasound Technology,Health Professions,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/2741,"Radiology, Nuclear Medicine and Imaging",Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2742,Rehabilitation,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2105,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/2743,Reproductive Medicine,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2922,Research and Theory,Nursing,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/2745,Rheumatology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2213,"Safety, Risk, Reliability and Quality",Engineering,Physical Sciences,engineering,direct_agreement,False,parent
+https://openalex.org/subfields/1711,Signal Processing,Computer Science,Physical Sciences,computer science,direct_agreement,False,parent
+https://openalex.org/subfields/3404,Small Animals,Veterinary,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/3207,Social Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,parent
+https://openalex.org/subfields/1712,Software,Computer Science,Physical Sciences,computer science,direct_agreement,False,parent
+https://openalex.org/subfields/1111,Soil Science,Agricultural and Biological Sciences,Life Sciences,biology,parent_or_keyword,False,parent
+https://openalex.org/subfields/1607,Spectroscopy,Chemistry,Physical Sciences,chemistry,direct_agreement,False,parent
+https://openalex.org/subfields/3616,Speech and Hearing,Health Professions,Health Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/3109,Statistical and Nonlinear Physics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,parent
+https://openalex.org/subfields/2613,Statistics and Probability,Mathematics,Physical Sciences,math,direct_agreement,False,parent
+https://openalex.org/subfields/1408,Strategy and Management,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,parent
+https://openalex.org/subfields/1315,Structural Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/2508,"Surfaces, Coatings and Films",Materials Science,Physical Sciences,engineering,parent_or_keyword,False,parent
+https://openalex.org/subfields/2746,Surgery,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2614,Theoretical Computer Science,Mathematics,Physical Sciences,math,direct_agreement,False,parent
+https://openalex.org/subfields/1409,"Tourism, Leisure and Hospitality Management","Business, Management and Accounting",Social Sciences,business,direct_agreement,False,parent
+https://openalex.org/subfields/3005,Toxicology,"Pharmacology, Toxicology and Pharmaceutics",Life Sciences,health,parent_or_keyword,False,parent
+https://openalex.org/subfields/2747,Transplantation,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2748,Urology,Medicine,Health Sciences,health,direct_agreement,False,parent
+https://openalex.org/subfields/2406,Virology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,parent
+https://openalex.org/subfields/1402,Accounting,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,direct
+https://openalex.org/subfields/3102,Acoustics and Ultrasonics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,direct
+https://openalex.org/subfields/2202,Aerospace Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/1302,Aging,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/2602,Algebra and Number Theory,Mathematics,Physical Sciences,math,direct_agreement,False,direct
+https://openalex.org/subfields/1602,Analytical Chemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,direct
+https://openalex.org/subfields/2702,Anatomy,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2703,Anesthesiology and Pain Medicine,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2604,Applied Mathematics,Mathematics,Physical Sciences,math,direct_agreement,False,direct
+https://openalex.org/subfields/2402,Applied Microbiology and Biotechnology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/3202,Applied Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,direct
+https://openalex.org/subfields/2216,Architecture,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/1702,Artificial Intelligence,Computer Science,Physical Sciences,computer science,direct_agreement,False,direct
+https://openalex.org/subfields/3103,Astronomy and Astrophysics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,direct
+https://openalex.org/subfields/3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,direct
+https://openalex.org/subfields/2203,Automotive Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/1303,Biochemistry,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/2704,Biochemistry,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2204,Biomedical Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/1304,Biophysics,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/1305,Biotechnology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/2215,Building and Construction,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/1403,Business and International Management,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,direct
+https://openalex.org/subfields/1306,Cancer Research,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/2705,Cardiology and Cardiovascular Medicine,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/1307,Cell Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/2205,Civil and Structural Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/1308,Clinical Biochemistry,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/3203,Clinical Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,direct
+https://openalex.org/subfields/2707,Complementary and alternative medicine,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2605,Computational Mathematics,Mathematics,Physical Sciences,math,direct_agreement,False,direct
+https://openalex.org/subfields/2206,Computational Mechanics,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/1703,Computational Theory and Mathematics,Computer Science,Physical Sciences,computer science,direct_agreement,False,direct
+https://openalex.org/subfields/1704,Computer Graphics and Computer-Aided Design,Computer Science,Physical Sciences,computer science,direct_agreement,False,direct
+https://openalex.org/subfields/1705,Computer Networks and Communications,Computer Science,Physical Sciences,computer science,direct_agreement,False,direct
+https://openalex.org/subfields/1706,Computer Science Applications,Computer Science,Physical Sciences,computer science,direct_agreement,False,direct
+https://openalex.org/subfields/1707,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences,computer science,direct_agreement,False,direct
+https://openalex.org/subfields/3104,Condensed Matter Physics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,direct
+https://openalex.org/subfields/2207,Control and Systems Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/2706,Critical Care and Intensive Care Medicine,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2708,Dermatology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/1309,Developmental Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/3204,Developmental and Educational Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,direct
+https://openalex.org/subfields/2607,Discrete Mathematics and Combinatorics,Mathematics,Physical Sciences,math,direct_agreement,False,direct
+https://openalex.org/subfields/2002,Economics and Econometrics,"Economics, Econometrics and Finance",Social Sciences,economics,direct_agreement,False,direct
+https://openalex.org/subfields/2208,Electrical and Electronic Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/1603,Electrochemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,direct
+https://openalex.org/subfields/2711,Emergency Medicine,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/1310,Endocrinology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/2712,"Endocrinology, Diabetes and Metabolism",Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2713,Epidemiology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/3205,Experimental and Cognitive Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,direct
+https://openalex.org/subfields/2714,Family Practice,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2003,Finance,"Economics, Econometrics and Finance",Social Sciences,economics,conflict_with_parent,True,direct
+https://openalex.org/subfields/2715,Gastroenterology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2000,"General Economics, Econometrics and Finance","Economics, Econometrics and Finance",Social Sciences,economics,direct_agreement,False,direct
+https://openalex.org/subfields/2200,General Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/3200,General Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,direct
+https://openalex.org/subfields/1311,Genetics,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/2716,Genetics,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2608,Geometry and Topology,Mathematics,Physical Sciences,math,direct_agreement,False,direct
+https://openalex.org/subfields/2717,Geriatrics and Gerontology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/1708,Hardware and Architecture,Computer Science,Physical Sciences,computer science,direct_agreement,False,direct
+https://openalex.org/subfields/2718,Health Informatics,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2720,Hematology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2721,Hepatology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/1709,Human-Computer Interaction,Computer Science,Physical Sciences,computer science,direct_agreement,False,direct
+https://openalex.org/subfields/2403,Immunology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/2723,Immunology and Allergy,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2209,Industrial and Manufacturing Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/1410,Industrial relations,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,direct
+https://openalex.org/subfields/2725,Infectious Diseases,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/1710,Information Systems,Computer Science,Physical Sciences,computer science,direct_agreement,False,direct
+https://openalex.org/subfields/1604,Inorganic Chemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,direct
+https://openalex.org/subfields/3105,Instrumentation,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,direct
+https://openalex.org/subfields/2724,Internal Medicine,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/1404,Management Information Systems,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,direct
+https://openalex.org/subfields/1405,Management of Technology and Innovation,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,direct
+https://openalex.org/subfields/1406,Marketing,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,direct
+https://openalex.org/subfields/2610,Mathematical Physics,Mathematics,Physical Sciences,math,direct_agreement,False,direct
+https://openalex.org/subfields/2210,Mechanical Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/2211,Mechanics of Materials,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/2214,Media Technology,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/2726,Microbiology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2404,Microbiology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/2611,Modeling and Simulation,Mathematics,Physical Sciences,math,direct_agreement,False,direct
+https://openalex.org/subfields/1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/1313,Molecular Medicine,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/2727,Nephrology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2728,Neurology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/3206,Neuropsychology and Physiological Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,direct
+https://openalex.org/subfields/3106,Nuclear and High Energy Physics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,direct
+https://openalex.org/subfields/2612,Numerical Analysis,Mathematics,Physical Sciences,math,direct_agreement,False,direct
+https://openalex.org/subfields/2729,Obstetrics and Gynecology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2212,Ocean Engineering,Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/2730,Oncology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2731,Ophthalmology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/1605,Organic Chemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,direct
+https://openalex.org/subfields/1407,Organizational Behavior and Human Resource Management,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,direct
+https://openalex.org/subfields/2732,Orthopedics and Sports Medicine,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2733,Otorhinolaryngology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2405,Parasitology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/2734,Pathology and Forensic Medicine,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2735,"Pediatrics, Perinatology and Child Health",Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2736,Pharmacology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/1606,Physical and Theoretical Chemistry,Chemistry,Physical Sciences,chemistry,direct_agreement,False,direct
+https://openalex.org/subfields/1314,Physiology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/2737,Physiology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2738,Psychiatry and Mental health,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2739,"Public Health, Environmental and Occupational Health",Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2740,Pulmonary and Respiratory Medicine,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/3108,Radiation,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,direct
+https://openalex.org/subfields/2741,"Radiology, Nuclear Medicine and Imaging",Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2742,Rehabilitation,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2743,Reproductive Medicine,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2745,Rheumatology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2213,"Safety, Risk, Reliability and Quality",Engineering,Physical Sciences,engineering,direct_agreement,False,direct
+https://openalex.org/subfields/1711,Signal Processing,Computer Science,Physical Sciences,computer science,direct_agreement,False,direct
+https://openalex.org/subfields/3207,Social Psychology,Psychology,Social Sciences,psychology,direct_agreement,False,direct
+https://openalex.org/subfields/1712,Software,Computer Science,Physical Sciences,computer science,direct_agreement,False,direct
+https://openalex.org/subfields/1607,Spectroscopy,Chemistry,Physical Sciences,chemistry,direct_agreement,False,direct
+https://openalex.org/subfields/3109,Statistical and Nonlinear Physics,Physics and Astronomy,Physical Sciences,physics,direct_agreement,False,direct
+https://openalex.org/subfields/2613,Statistics and Probability,Mathematics,Physical Sciences,math,direct_agreement,False,direct
+https://openalex.org/subfields/1408,Strategy and Management,"Business, Management and Accounting",Social Sciences,business,direct_agreement,False,direct
+https://openalex.org/subfields/1315,Structural Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences,biology,direct_agreement,False,direct
+https://openalex.org/subfields/2746,Surgery,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2614,Theoretical Computer Science,Mathematics,Physical Sciences,math,direct_agreement,False,direct
+https://openalex.org/subfields/1409,"Tourism, Leisure and Hospitality Management","Business, Management and Accounting",Social Sciences,business,direct_agreement,False,direct
+https://openalex.org/subfields/2747,Transplantation,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2748,Urology,Medicine,Health Sciences,health,direct_agreement,False,direct
+https://openalex.org/subfields/2406,Virology,Immunology and Microbiology,Life Sciences,biology,direct_agreement,False,direct

@@ -1,0 +1,10 @@
+{
+  "date": "2026-09-23",
+  "format": "parquet",
+  "meta": {
+    "record_count": 626069032,
+    "content_length": 771204926551
+  },
+  "manifest_sha256": "566ecc5c4a77010ddd64002673446aaba048d1fb3143e23ec4525566ffddd678",
+  "provider_url": "https://help.openalex.org/access/snapshot/"
+}

@@ -1,0 +1,32 @@
+\begin{regressiontable}{tab:table2}{Knowledge architecture and unfamiliar entry}
+\noindent\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}lcccccccc@{}}
+\toprule
+ & \multicolumn{4}{c}{Parent mapping} & \multicolumn{4}{c}{Direct mapping} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}
+ & Total & Specialist & No-Specialist & Signed & Total & Specialist & No-Specialist & Signed \\
+\midrule
+\multicolumn{9}{@{}l}{\textit{Panel A. Original architecture specification}} \\
+\addlinespace[2pt]
+\textbf{HomeGain $\times$ $U$} & \ensuremath{-0.1236}$^{**}$ & \ensuremath{0.0048} & \ensuremath{-0.1284}$^{***}$ & \ensuremath{0.1332}$^{***}$ & \ensuremath{-0.1379}$^{**}$ & \ensuremath{0.0139} & \ensuremath{-0.1519}$^{***}$ & \ensuremath{0.1658}$^{***}$ \\
+ & (0.0504) & (0.0231) & (0.0389) & (0.0396) & (0.0582) & (0.0324) & (0.0416) & (0.0465) \\
+DestinationGain $\times$ $U$ & \ensuremath{-0.0535}$^{*}$ & \ensuremath{-0.0283} & \ensuremath{-0.0252} & \ensuremath{-0.0031} & \ensuremath{-0.0210} & \ensuremath{-0.0250}$^{*}$ & \ensuremath{0.0040} & \ensuremath{-0.0291} \\
+ & (0.0264) & (0.0170) & (0.0181) & (0.0230) & (0.0235) & (0.0119) & (0.0166) & (0.0167) \\
+\addlinespace[5pt]
+\midrule
+\multicolumn{9}{@{}l}{\textit{Panel B. Unified knowledge specification (A1)}} \\
+\addlinespace[2pt]
+\textbf{HomeGain $\times$ $U$} & \ensuremath{-0.1241}$^{**}$ & \ensuremath{0.0047} & \ensuremath{-0.1288}$^{***}$ & \ensuremath{0.1335}$^{***}$ & \ensuremath{-0.1381}$^{**}$ & \ensuremath{0.0140} & \ensuremath{-0.1521}$^{***}$ & \ensuremath{0.1660}$^{***}$ \\
+ & (0.0503) & (0.0234) & (0.0387) & (0.0396) & (0.0579) & (0.0322) & (0.0417) & (0.0468) \\
+DestinationGain $\times$ $U$ & \ensuremath{-0.0524}$^{*}$ & \ensuremath{-0.0279} & \ensuremath{-0.0245} & \ensuremath{-0.0035} & \ensuremath{-0.0196} & \ensuremath{-0.0244}$^{*}$ & \ensuremath{0.0048} & \ensuremath{-0.0293} \\
+ & (0.0249) & (0.0168) & (0.0170) & (0.0229) & (0.0226) & (0.0117) & (0.0164) & (0.0174) \\
+\midrule
+Observations & \multicolumn{4}{c}{1,128,756,552} & \multicolumn{4}{c}{774,644,805} \\
+Nonzero cells & 9,065 & 3,386 & 5,679 & 9,065 & 7,188 & 2,711 & 4,477 & 7,188 \\
+\addlinespace[3pt]
+Fixed effects & \multicolumn{8}{c}{Pair, core-month, destination-month in both panels} \\
+Month slopes & \multicolumn{8}{c}{Gap, distance, $U$, shared coverage in both panels} \\
+Applicability & \multicolumn{8}{c}{Both gain interactions and month slopes in Panel B only} \\
+\bottomrule
+\end{tabular*}\par
+\vspace{6pt}{\small\noindent\textit{Notes.} $U$ is Distributed Knowledge Coverage. Total is Specialist plus No-Specialist First Entry. Signed is Specialist minus No-Specialist. Both panels include gap, distance, and shared coverage interacted with both gains, and log breadth and log productivity interacted with DestinationGain. Core-month and destination-month fixed effects absorb the gain levels. LPM estimates and standard errors are scaled by 10,000. Coefficients give entries per 100,000 candidate-months for a 0.10 gain change and a one-original-risk-SD modifier difference. Standard errors in parentheses use ten capability-path clusters and a $t(9)$ reference. $^{***}p<0.01$, $^{**}p<0.05$, $^{*}p<0.10$ (raw, exploratory). Complete estimates and specification diagnostics are retained in the accompanying replication archive.\par}
+\end{regressiontable}

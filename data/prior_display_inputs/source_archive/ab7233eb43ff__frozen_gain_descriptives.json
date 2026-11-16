@@ -1,0 +1,56 @@
+{
+  "parent": {
+    "N": 1128756552,
+    "cores": 602919,
+    "pairs": 102614232,
+    "destinations": 186,
+    "HomeGain": {
+      "mean": 0.3122807099323128,
+      "sd": 0.17659831503664547
+    },
+    "DestinationGain": {
+      "mean": 0.2923454962783875,
+      "sd": 0.18539266065879756
+    },
+    "method": "Exact weighted sums on original frozen pair mask, all eleven months; no regression; no materialized Cartesian monthly tensor",
+    "source_inputs": [
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\universal\\frozen\\history.npy",
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\universal\\frozen\\classes.npy",
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\universal\\frozen\\G.npy",
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\universal\\frozen\\D.npy",
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\universal\\frozen\\home.npy",
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\universal\\frozen\\sub.parquet",
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\recent\\global_core_index.parquet",
+      "expanded_sample_reassessment_20261102\\08_reproducibility\\inputs\\subfield_mapping_versions.csv",
+      "expanded_sample_reassessment_20261102\\08_reproducibility\\inputs\\field_month_proxies.csv"
+    ],
+    "descriptive_aggregation_only": true
+  },
+  "direct": {
+    "N": 774644805,
+    "cores": 597077,
+    "pairs": 70422255,
+    "destinations": 131,
+    "HomeGain": {
+      "mean": 0.31852144715454067,
+      "sd": 0.17845010896359764
+    },
+    "DestinationGain": {
+      "mean": 0.2916645802540384,
+      "sd": 0.18869300426874933
+    },
+    "method": "Exact weighted sums on original frozen pair mask, all eleven months; no regression; no materialized Cartesian monthly tensor",
+    "source_inputs": [
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\universal\\frozen\\history.npy",
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\universal\\frozen\\classes.npy",
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\universal\\frozen\\G.npy",
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\universal\\frozen\\D.npy",
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\universal\\frozen\\home.npy",
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\universal\\frozen\\sub.parquet",
+      "expanded_sample_reassessment_20261102\\02_dyad_full_population\\recent\\global_core_index.parquet",
+      "expanded_sample_reassessment_20261102\\08_reproducibility\\inputs\\subfield_mapping_versions.csv",
+      "expanded_sample_reassessment_20261102\\08_reproducibility\\inputs\\field_month_proxies.csv"
+    ],
+    "descriptive_aggregation_only": true
+  }
+}

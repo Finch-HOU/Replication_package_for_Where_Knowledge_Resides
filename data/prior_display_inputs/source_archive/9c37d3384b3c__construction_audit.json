@@ -1,0 +1,52 @@
+{
+  "mapping": "direct",
+  "original": {
+    "cores": 597077,
+    "pairs": 70422255,
+    "N": 774644805,
+    "events": [
+      7188,
+      2711,
+      4477,
+      7188
+    ]
+  },
+  "observable_cores": 542908,
+  "observable_pairs": 63628834,
+  "observable_N": 699917174,
+  "events": {
+    "total": 6924,
+    "specialist": 2639,
+    "no_specialist": 4285
+  },
+  "excluded_cores": 54169,
+  "excluded_events": 264,
+  "all_candidates_and_post_entry_zeros_retained_within_observable_cores": true,
+  "observability_rule": "both members positive mapped frozen history; fixed before outcome coefficient review",
+  "ties_pairs": 2596728,
+  "ties_zero_coverage_pairs": 7715,
+  "tie_share_full_pairs": 0.03687368432038991,
+  "tie_share_event_pairs": 0.014468558708959377,
+  "anchor_matches_frozen_best_all_cells": true,
+  "errors": {
+    "best_member_max_error": 0.0,
+    "U_C_minus_B_max_error": 7.046049920189645e-07,
+    "member_sum_history_max_error": 0.0,
+    "home_reconstruction_max_error": 1.6653345369377348e-15,
+    "profile_recompute_max_error": 3.5762786865234375e-07
+  },
+  "member_gain_missing_cells": 595859,
+  "ten_original_paths": [
+    "biology",
+    "business",
+    "chemistry",
+    "computer science",
+    "economics",
+    "engineering",
+    "health",
+    "math",
+    "physics",
+    "psychology"
+  ],
+  "prior_window_end": 2021
+}
